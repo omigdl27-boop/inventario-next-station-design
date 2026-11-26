@@ -1,0 +1,6 @@
+YAMLlanguage: java
+jdk:
+  - openjdk17
+
+script:
+  - mvn test
